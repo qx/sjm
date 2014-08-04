@@ -1,3 +1,13 @@
+计划表:
+    1.验证:通知好友功能
+    2.验证:服务器部署
+    3.服务器接入接口功能(数据统计功能)
+    4.接入广告接口
+    5.微信接口使用:分享,初始化,限制
+
+
+
+
 # [HTML5 Boilerplate](http://html5boilerplate.com)
 
 HTML5 Boilerplate is a professional front-end template for building fast,

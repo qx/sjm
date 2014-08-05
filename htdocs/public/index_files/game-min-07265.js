@@ -17060,7 +17060,10 @@ __extends = this.__extends || function (c, e) {
                 this.theothercat.y && this.getChildIndex(this.thecat) > this.getChildIndex(this.theothercat) && this.swapChildren(this.thecat, this.theothercat)
         };
         a.prototype.showResult = function (a) {
-            a ? (this.successPanel.x = (this.stageW - this.successPanel.width) / 2, this.successPanel.y = (this.stageH - this.successPanel.height - this.morebtn.height) / 2, this.successPanel.score(this.map.tap), this.addChild(this.successPanel), this.isWin = 1) : (this.failPanel.x = (this.stageW - this.failPanel.width) / 2, this.failPanel.y = (this.stageH - this.failPanel.height -
+            a ? (this.successPanel.x = (this.stageW - this.successPanel.width) / 2, this.successPanel.y =
+                (this.stageH - this.successPanel.height - this.morebtn.height) / 2, this.successPanel.score(this.map.tap),
+                this.addChild(this.successPanel), this.isWin = 1) : (this.failPanel.x = (this.stageW - this.failPanel.width) / 2,
+                this.failPanel.y = (this.stageH - this.failPanel.height -
                 this.morebtn.height) / 2, this.successPanel.score(this.map.tap), this.addChild(this.failPanel), this.isWin = 2);
             this.addChild(this.morebtn)
         };

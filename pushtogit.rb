@@ -11,7 +11,7 @@ class Pushtogit
     if system 'git branch -r'
       puts('input branch :')
       branch=gets.chomp
-      `git push -u origin HEAD:refs/for/#{branch}`
+      `git push -u origin #{branch}`
 
     end
   end

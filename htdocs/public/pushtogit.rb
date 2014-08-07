@@ -1,8 +1,13 @@
 #!/usr/bin/env ruby
 class Pushtogit
+  def retdir
+    system 'cd ../..'
+  end
+
   def gitAdd
     `git add --all :/`
     # gitid=gets.chomp
+    `git status`
     gitid=`date`
     puts('please put content:')
     gitcontent=gets.chomp
@@ -17,6 +22,7 @@ class Pushtogit
 
   if __FILE__ == $0
     su=Pushtogit.new
+    su.retdir
     su.gitAdd
   end
 end

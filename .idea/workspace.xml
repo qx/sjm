@@ -2,6 +2,123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03bc547d-c44f-406c-ab79-1470db4164ae" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/platform/AppControl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/accelerometer/CCAccelerometer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/actions/CCAction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/actions/CCActionCamera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/actions/CCActionCatmullRom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/actions/CCActionEase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/actions3d/CCActionGrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/actions3d/CCActionGrid3D.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/actions/CCActionInstant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/actions/CCActionInterval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/CCActionManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/actions3d/CCActionPageTurn3D.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/progress_timer/CCActionProgressTimer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/actions3d/CCActionTiledGrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/actions/CCActionTween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/cocoa/CCAffineTransform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/sprite_nodes/CCAnimation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/sprite_nodes/CCAnimationCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/platform/CCApplication.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/base_nodes/CCAtlasNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/CCCamera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/platform/CCClass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/clipping_nodes/CCClippingNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/platform/CCCommon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/platform/CCConfig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/CCConfiguration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/CCDirector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/shape_nodes/CCDrawNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/CCDrawingPrimitives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/platform/CCEGLView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/platform/CCFileUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/shaders/CCGLProgram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/shaders/CCGLStateCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/cocoa/CCGeometry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/effects/CCGrabber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/effects/CCGrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/text_input_node/CCIMEDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/CCImage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/keyboard_dispatcher/CCKeyboardDelegate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/keyboard_dispatcher/CCKeyboardDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/label_nodes/CCLabelAtlas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/label_nodes/CCLabelBMFont.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/labelTTF/CCLabelTTF.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/layers_nodes/CCLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/CCLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/platform/CCMacro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/menu_nodes/CCMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/menu_nodes/CCMenuItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/motion_streak/CCMotionStreak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/touch_dispatcher/CCMouseDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/base_nodes/CCNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/CCNotificationCenter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/particle_nodes/CCPNGReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/parallax_nodes/CCParallaxNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/particle_nodes/CCParticleBatchNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/particle_nodes/CCParticleExamples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/particle_nodes/CCParticleSystem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/physics_nodes/CCPhysicsDebugNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/physics_nodes/CCPhysicsSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/support/CCPointExtension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/progress_timer/CCProgressTimer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/render_texture/CCRenderTexture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/platform/CCSAXParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/scenes_nodes/CCScene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/CCScheduler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/platform/CCScreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/shaders/CCShaderCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/shaders/CCShaders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/sprite_nodes/CCSprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/sprite_nodes/CCSpriteBatchNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/sprite_nodes/CCSpriteFrame.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/sprite_nodes/CCSpriteFrameCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/tileMap_nodes/CCTGAlib.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/particle_nodes/CCTIFFReader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/tileMap_nodes/CCTMXLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/tileMap_nodes/CCTMXObjectGroup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/tileMap_nodes/CCTMXTiledMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/tileMap_nodes/CCTMXXMLParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/text_input_node/CCTextFieldTTF.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/textures/CCTexture2D.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/textures/CCTextureAtlas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/textures/CCTextureCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/tileMap_nodes/CCTileMapAtlas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/touch_dispatcher/CCTouchDelegateProtocol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/touch_dispatcher/CCTouchDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/touch_dispatcher/CCTouchHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/transitions_nodes/CCTransition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/transitions_nodes/CCTransitionPageTurn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/transitions_nodes/CCTransitionProgress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/platform/CCTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/CCUserDefault.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/support/CCVertex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/platform/CCVisibleRect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/audio/SimpleAudioEngine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/platform/Sys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/support/TransformUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/compress/ZipUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/kazmath/aabb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/compress/base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/cocos2d_externs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/compress/gzip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/jsloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/kazmath/mat3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/kazmath/mat4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/kazmath/GL/mat4stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/kazmath/GL/matrix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/core/platform/miniFramework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/kazmath/plane.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/kazmath/quaternion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/kazmath/ray2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/kazmath/utility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/kazmath/vec2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/kazmath/vec3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/kazmath/vec4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d/compress/zlib.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htdocs/public/cocos2d.js" afterPath="$PROJECT_DIR$/htdocs/public/cocos2d.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sjm.iws" />
@@ -25,24 +142,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pushtogit.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pushtogit.rb">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cocosjs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="486">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding />
+            <state vertical-scroll-proportion="-6.3333335" vertical-offset="0" max-vertical-offset="594">
+              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../cocosjs/index.html">
+      <file leaf-file-name="cocos2d.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/htdocs/public/cocos2d.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8540146" vertical-offset="0" max-vertical-offset="594">
-              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.4" vertical-offset="974" max-vertical-offset="1566">
+              <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -74,6 +191,7 @@
         <option value="$PROJECT_DIR$/htdocs/public/index.html" />
         <option value="$PROJECT_DIR$/pushtogit.rb" />
         <option value="$PROJECT_DIR$/../cocosjs/index.html" />
+        <option value="$PROJECT_DIR$/htdocs/public/cocos2d.js" />
       </list>
     </option>
   </component>
@@ -152,6 +270,102 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sjm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sjm" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos2d" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sjm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sjm" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos2d" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sjm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sjm" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocos2d" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cocoa" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sjm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sjm" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="conf" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -173,8 +387,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/htdocs/public" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/htdocs/public/resource/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -474,22 +692,23 @@
       <workItem from="1407226985533" duration="3939000" />
       <workItem from="1407386478017" duration="2609000" />
       <workItem from="1407393257921" duration="4000" />
-      <workItem from="1407393401398" duration="884000" />
+      <workItem from="1407393401398" duration="1866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13917000" />
+    <option name="totallyTimeSpent" value="14899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1654" height="1015" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32887402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32887402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32887402" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -503,11 +722,10 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18159205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18159205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -538,14 +756,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pushtogit.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../cocosjs/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="594">
@@ -553,14 +763,6 @@
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pushtogit.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -574,21 +776,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pushtogit.rb">
+    <entry file="file://$PROJECT_DIR$/htdocs/public/cocos2d/core/cocoa/CCGeometry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.43826088" vertical-offset="0" max-vertical-offset="9468">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../cocosjs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8540146" vertical-offset="0" max-vertical-offset="594">
-          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        <state vertical-scroll-proportion="-6.3333335" vertical-offset="0" max-vertical-offset="594">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/public/cocos2d.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4" vertical-offset="974" max-vertical-offset="1566">
+          <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>

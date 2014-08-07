@@ -6,7 +6,7 @@ class Pushtogit
     gitid=`date`
     puts('please put content:')
     gitcontent=gets.chomp
-    `git commit -m \"[#{gitid}] \n  Content:#{gitcontent}.\"`
+    `git commit -m \"#{gitid}\n  Content:#{gitcontent}.\"`
     if system 'git branch -r'
       puts('input branch :')
       branch=gets.chomp

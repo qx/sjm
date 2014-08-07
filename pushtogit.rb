@@ -2,12 +2,11 @@
 class Pushtogit
   def gitAdd
     `git add --all :/`
-    # puts('please put id:eg APOWER-1234 ')
     # gitid=gets.chomp
     gitid=`date`
     puts('please put content:')
     gitcontent=gets.chomp
-    `git commit -m \"[#{gitid}]fixed\n  Content:#{gitcontent}.\"`
+    `git commit -m \"[#{gitid}] \n  Content:#{gitcontent}.\"`
     if system 'git branch -r'
       puts('input branch :')
       branch=gets.chomp
